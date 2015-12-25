@@ -1,0 +1,28 @@
+name: terwindt
+favicon: null
+layout_spectrum: 0.8164406437426805
+typography_spectrum: 0.79804432624951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7151219120714813
+  lightness: 0.5811848549637944
+  saturation: 0.0422960021533072
+  rhythmicContrast: 0.7829522404354066
+purpose: []
